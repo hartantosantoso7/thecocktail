@@ -10,5 +10,5 @@ Tugas Akhir Flutter EUDEKA OSG 5
 - Menu About 
   : berfungsi menampilkan daftar namaa kelompok yang membuat aplikasi
 
-
+> progress 30%
 
