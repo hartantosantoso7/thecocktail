@@ -1,6 +1,6 @@
 # thecocktail
 
-A new Flutter project.
+Tugas Akhir Flutter EUDEKA OSG 5
 
 ## Getting Started
 
