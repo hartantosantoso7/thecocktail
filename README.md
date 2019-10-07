@@ -7,3 +7,6 @@ Tugas Akhir Flutter EUDEKA OSG 5
 - Menu Search = berfungsi untuk mencari minuman yang diinginkan 
 - Menu About = berfungsi menampilkan daftar namaa kelompok yang membuat aplikasi
 
+term
+: definition
+
