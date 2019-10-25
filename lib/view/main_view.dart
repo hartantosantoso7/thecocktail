@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/semantics.dart';
 import 'home_view.dart';
-import 'profile_dart.dart';
 import 'search_view.dart';
+import 'package:thecocktail/view/about_view.dart';
 
 class MainPage extends StatefulWidget {
   @override
@@ -36,11 +36,13 @@ class _MainPageState extends State<MainPage> with SingleTickerProviderStateMixin
       body: TabBarView(
         controller: _tabController,
         children: <Widget>[
-          HomePage(),
+          Homepage(),
           SearchPage(),
-          ProfilePage(),
+          AboutView(),
         ],
+      
       ),
+     
     );
   }
 

@@ -7,7 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:thecocktail/main_view.dart';
+import 'package:thecocktail/view/main_view.dart';
 import 'package:thecocktail/main.dart';
 
 void main() {
