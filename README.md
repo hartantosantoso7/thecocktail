@@ -1,16 +1,14 @@
 # thecocktail
 
-A new Flutter project.
+Tugas Akhir Flutter EUDEKA OSG 5
 
-## Getting Started
+## Fitur pada aplikasi
+- Menu Drink 
+  : menampilkan daftar minuman
+- Menu Search 
+  : berfungsi untuk mencari minuman yang diinginkan 
+- Menu About 
+  : berfungsi menampilkan daftar namaa kelompok yang membuat aplikasi
 
-This project is a starting point for a Flutter application.
+> progress 30%
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
