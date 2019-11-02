@@ -4,9 +4,26 @@
 
 import 'dart:convert';
 
-Drink drinkFromJson(String str) => Drink.fromJson(json.decode(str));
+DrinkNames drinkNamesFromJson(String str) => DrinkNames.fromJson(json.decode(str));
 
-String drinkToJson(Drink data) => json.encode(data.toJson());
+String drinkNamesToJson(DrinkNames data) => json.encode(data.toJson());
+
+
+class DrinkNames {
+  List<Drink> drinks;
+
+  DrinkNames({  
+    this.drinks,
+  });
+
+  factory DrinkNames.fromJson(Map<String, dynamic> json) => DrinkNames(
+    drinks: List<Drink>.from(json['drinks'].map((x) => Drink.fromJson(x))),
+  );
+
+  Map<String, dynamic> toJson() => {
+    "drinks" : List<dynamic>.from(drinks.map((x) => x.toJson())),
+  };
+}
 
 class Drink {
     String strDrinkThumb;

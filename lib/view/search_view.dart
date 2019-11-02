@@ -65,28 +65,28 @@ class _SearchPageState extends State<SearchPage> {
 }
 
 class SearchContent extends StatelessWidget {
-  final String drinks;
+  final String d;
 
-  SearchContent(this.drinks);
+  SearchContent(this.d);
 
   @override
   Widget build(BuildContext context) {
     return Center(
-      child: FutureBuilder<Drink>(
-        future: Api.getDrinks(drinks),
+      child: FutureBuilder<DrinkNames>(
+        future: Api.getNames(d),
         builder: (BuildContext context, AsyncSnapshot snapshot) {
-          Drink drink = snapshot.data;
+          DrinkNames drinkNames = snapshot.data;
           bool connect = snapshot.connectionState == ConnectionState.done;
           if (snapshot.hasData && connect) {
             return ListView.builder(
-              itemCount: drink.strDrink.length,
+              itemCount: drinkNames.drinks.length,
               itemBuilder: (BuildContext context, int index) {
                 return ListTile(
-                  title: Text(drink.strDrink[index]),
+                  title: Text(drinkNames.drinks[index].strDrink),
                   onTap: () {
                     SnackBar snackbar = SnackBar(
                       content: Text(
-                        drink.strDrink[index],
+                        drinkNames.drinks[index].strDrink,
                       ),
                     );
                     Scaffold.of(context).showSnackBar(snackbar);
