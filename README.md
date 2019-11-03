@@ -26,5 +26,7 @@ Instagram : @eudeka.id
 WhatsApp : 0895351577557
 Email : info@eudeka.id
 
+[^1]: This is the footnote.
+
 
 
