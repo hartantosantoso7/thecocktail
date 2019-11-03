@@ -2,6 +2,12 @@
 
 Tugas Akhir Flutter EUDEKA OSG 5
 
+Screenshoot
+![alt text](images/sc_drink.png "Logo Title Text 1")
+![alt text](images/search.png "Logo Title Text 1")
+![alt text](images/about.png "Logo Title Text 1")
+
+
 ## Fitur pada aplikasi
 - Menu Drink 
   : menampilkan daftar minuman
