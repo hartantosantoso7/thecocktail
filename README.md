@@ -5,7 +5,7 @@ Tugas Akhir Flutter EUDEKA OSG 5
 Screenshoot
 ![alt text](images/app.PNG)
 
-	**Built With**
+## Built with 
   - Flutter
 
 ## Fitur pada aplikasi
@@ -18,7 +18,7 @@ Screenshoot
 
 > progress 50%
 
-**Info Lebih Lengkap**
+## Info Lebih Lengkap**
 - Website : www.eudeka.id
 - Twitter: @EudekaID
 - Telegram : @eudekainfo
