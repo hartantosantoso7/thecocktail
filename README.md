@@ -2,6 +2,12 @@
 
 Tugas Akhir Flutter EUDEKA OSG 5
 
+Screenshoot
+![alt text](images/sc_drink.PNG)
+![alt text](images/search.PNG)
+![alt text](images/about.PNG)
+
+
 ## Fitur pada aplikasi
 - Menu Drink 
   : menampilkan daftar minuman
@@ -10,5 +16,5 @@ Tugas Akhir Flutter EUDEKA OSG 5
 - Menu About 
   : berfungsi menampilkan daftar namaa kelompok yang membuat aplikasi
 
-> progress 45%
+> progress 50%
 
