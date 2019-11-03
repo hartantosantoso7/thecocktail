@@ -18,7 +18,7 @@ Screenshoot
 
 > progress 50%
 
-- Info Lebih Lengkap
+**Info Lebih Lengkap**
 - Website : www.eudeka.id
 - Twitter: @EudekaID
 - Telegram : @eudekainfo
