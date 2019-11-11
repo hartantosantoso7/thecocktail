@@ -16,7 +16,14 @@ Screenshoot
 - Menu About 
   : berfungsi menampilkan daftar namaa kelompok yang membuat aplikasi
 
-> progress 50%
+## Created By
+- Menu Drink 
+  Hartanto Santoso (2 poin)
+- Menu Search 
+  Hartanto Santoso (3 poin)
+- Menu About 
+  Hartanto Santoso (2 poin)
+
 
 ## Info Lebih Lengkap**
 - Website : www.eudeka.id
