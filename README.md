@@ -18,11 +18,11 @@ Screenshoot
 
 ## Created By
 - Menu Drink 
-  -Hartanto Santoso (2 poin)
+  - Hartanto Santoso (2 poin)
 - Menu Search 
-  -Hartanto Santoso (3 poin)
+  - Hartanto Santoso (3 poin)
 - Menu About 
-  -Hartanto Santoso (2 poin)
+  - Hartanto Santoso (2 poin)
 
 
 ## Info Lebih Lengkap**
